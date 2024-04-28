@@ -28,6 +28,7 @@ Sources:
 
 The methodology on how to adding constraints and creating foreign keys based on that was obtained from Xpert Learning Assistant. 
 
+Example:
 "ALTER TABLE employees
 ADD CONSTRAINT unique_emp_no UNIQUE (emp_no)
 
